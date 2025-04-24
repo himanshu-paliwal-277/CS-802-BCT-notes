@@ -181,6 +181,8 @@ Each has unique characteristics, advantages, and limitations.
 
 ### 📊 Comparison Table
 
+### CPDDESSS
+
 | Feature              | Centralized Network                                          | Decentralized Network                                           | Distributed Network               |
 | -------------------- | ------------------------------------------------------------ | --------------------------------------------------------------- | --------------------------------- |
 | **Control**          | Single central authority                                     | Multiple authorities                                            | All nodes are equal               |
@@ -296,6 +298,10 @@ Both aim to:
 ---
 
 ### 📊 Comparison Table
+
+### CRRSHEEPA
+
+Cat Runs, Runs Slowly. He Eats Every Piece of Apple.
 
 | Feature                           | Proof of Work (PoW)                                                     | Proof of Stake (PoS)                                                     |
 | --------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -479,6 +485,10 @@ This structure ensures that any change in any transaction will lead to a change 
 
 - **Bitcoin and Ethereum** use Merkle Trees to efficiently store and verify transactions in each block.
 - Used in systems requiring **data audit trails**.
+
+### Diagram of Merkle Tree:
+
+![diagram](https://lh7-us.googleusercontent.com/docsz/AD_4nXfWhauwcNgqYxa5Y3BtuPoiNILztHvX0Z5A8a6VwUcz1qZ1f2wwUWP11i1mJBgfh1Qx__GdBDV9gV3vdkXL2IaSGsr0kydgiWA4Fm4orP49xLqOSPUAQIUId2hhnoh2wr0KZjWqvdd0sAbOB_zsKiKmeHFU?key=JfcbwJcoz07-KGFkh8h6cQ)
 
 ---
 

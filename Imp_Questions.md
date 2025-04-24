@@ -65,3 +65,45 @@
   d) Creation of coin (2024)
 - Define and explain the following:  
   a) Digital Signature (2024)
+
+# Important Theory Questions for CS802 (A) - Blockchain Technologies (RGPV)
+
+## Unit 1: Introduction to Blockchain
+
+1. What is Blockchain? Explain the concept with the help of an example.
+2. Differentiate between Public and Private Blockchain.
+3. Explain Cryptographic Hash Function and its properties.
+4. What is a Smart Contract? How does it work?
+5. Write a short note on Public Key Cryptography in Blockchain.
+
+## Unit 2: Blockchain with Cryptocurrency
+
+1. How are Bitcoins created? Explain Bitcoin mining in detail.
+2. Explain the concept of Proof of Work (PoW) and its importance.
+3. What is double spending? How does Blockchain prevent it?
+4. Describe the life of a Bitcoin Miner.
+5. Compare Proof of Work (PoW) and Proof of Stake (PoS).
+
+## Unit 3: Blockchain for Enterprises
+
+1. What is a Permissioned Blockchain? Explain with use cases.
+2. Write short notes on RAFT and Paxos consensus algorithms.
+3. What is the Byzantine Fault Tolerance (BFT)? Explain.
+4. Explain Design Issues for Permissioned Blockchain systems.
+5. What is the Lamport-Shostak-Pease algorithm?
+
+## Unit 4: Enterprise Applications of Blockchain
+
+1. How is Blockchain used in Supply Chain Financing?
+2. Explain the use of Blockchain in Cross-border payments.
+3. Describe the role of Blockchain in Food Security.
+4. How is KYC (Know Your Customer) handled using Blockchain?
+5. What is a Blockchain-enabled Trade Finance Network?
+
+## Unit 5: Blockchain Application Development
+
+1. What is Hyperledger Fabric? Describe its architecture.
+2. How do you write a Smart Contract using Ethereum?
+3. Explain Membership and Access Control in Hyperledger.
+4. What is Transaction Validation in Blockchain?
+5. Compare Ripple, Corda, and Ethereum.
